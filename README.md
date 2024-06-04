@@ -16,7 +16,7 @@ This project is a Resume Builder Webiste developed using React.js.
 To clone the repository, use the following command:
 
 ```bash
-git clone https://github.com/your-username/Resume-Builder.git
+git clone https://github.com/AmbarQadri/Resume-Builder.git
 ```
 
 ### Installation
